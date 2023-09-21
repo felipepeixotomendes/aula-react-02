@@ -1,0 +1,11 @@
+
+.header-menu{
+    background-color: rgb(255, 13, 13);
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+}
+
+.img-logo{
+    width: 8%;
+}
